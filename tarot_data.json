@@ -1,0 +1,37 @@
+[
+  {
+    "name": "The Fool",
+    "meaning": "New beginnings and adventure.",
+    "love": "A fresh romantic connection may appear.",
+    "career": "Take bold steps toward new opportunities.",
+    "guidance": "Trust the journey ahead."
+  },
+  {
+    "name": "The Magician",
+    "meaning": "Manifestation and personal power.",
+    "love": "Strong attraction and communication.",
+    "career": "Your skills will open new doors.",
+    "guidance": "Use your talents wisely."
+  },
+  {
+    "name": "The High Priestess",
+    "meaning": "Intuition and mystery.",
+    "love": "Listen to emotional instincts.",
+    "career": "Observe before making decisions.",
+    "guidance": "Inner wisdom is your strength."
+  },
+  {
+    "name": "The Sun",
+    "meaning": "Success and happiness.",
+    "love": "Warmth and positivity in relationships.",
+    "career": "Recognition and achievement are near.",
+    "guidance": "Embrace joy and confidence."
+  },
+  {
+    "name": "Death",
+    "meaning": "Transformation and endings.",
+    "love": "A chapter closes for new growth.",
+    "career": "Major change is coming.",
+    "guidance": "Release what no longer serves you."
+  }
+]
