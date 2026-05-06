@@ -9,23 +9,37 @@ st.set_page_config(
     layout="wide"
 )
 
-# Load tarot data
-DATA_FILE = Path("tarot_data.json")
+# LOAD TAROT DATA
+DATA_FILE = Path("full_tarot_deck.json")
 
 with open(DATA_FILE, "r", encoding="utf-8") as f:
-    tarot_cards = json.load(f)
+    data = json.load(f)
 
-# Custom Styling
+# FLATTEN DECK
+tarot_cards = []
+
+tarot_cards.extend(data["major_arcana"])
+
+for suit in data["minor_arcana"].values():
+    tarot_cards.extend(suit)
+
+# CUSTOM CSS
 st.markdown("""
 <style>
+
 .stApp {
-    background: linear-gradient(180deg, #090909, #1b1028);
+    background: linear-gradient(
+        180deg,
+        #07070a,
+        #140f1f,
+        #1e1333
+    );
     color: #f2d27a;
 }
 
 .main-title {
     text-align: center;
-    font-size: 58px;
+    font-size: 60px;
     font-weight: bold;
     color: #f2d27a;
     margin-top: 20px;
@@ -33,39 +47,51 @@ st.markdown("""
 
 .subtitle {
     text-align: center;
-    color: #c8b27c;
-    margin-bottom: 30px;
+    color: #c9b27b;
+    margin-bottom: 40px;
 }
 
 .tarot-card {
-    background-color: rgba(20,20,20,0.7);
-    padding: 20px;
+    background: rgba(20,20,20,0.75);
+    border: 1px solid rgba(255,215,0,0.3);
     border-radius: 20px;
-    border: 1px solid #d4af37;
-    box-shadow: 0 0 20px rgba(212,175,55,0.3);
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 25px rgba(255,215,0,0.15);
 }
 
 .card-title {
     font-size: 28px;
-    color: #f2d27a;
     font-weight: bold;
+    color: #f2d27a;
 }
 
 .section-title {
+    font-size: 32px;
     color: #f2d27a;
-    font-size: 24px;
-    margin-top: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
+
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="main-title">🔮 Mystic Tarot</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">Reveal your destiny through the cards</div>', unsafe_allow_html=True)
+# HEADER
+st.markdown(
+    '<div class="main-title">🔮 Mystic Tarot</div>',
+    unsafe_allow_html=True
+)
 
-st.sidebar.title("Tarot Settings")
+st.markdown(
+    '<div class="subtitle">Reveal your destiny through the cards</div>',
+    unsafe_allow_html=True
+)
+
+# SIDEBAR
+st.sidebar.title("Tarot Reading")
 
 reading_type = st.sidebar.selectbox(
-    "Choose Reading Type",
+    "Choose Reading",
     [
         "Single Card",
         "Three Card Spread",
@@ -76,44 +102,77 @@ reading_type = st.sidebar.selectbox(
 )
 
 zodiac = st.sidebar.selectbox(
-    "Choose Zodiac Sign",
+    "Zodiac Sign",
     [
-        "Aries", "Taurus", "Gemini", "Cancer",
-        "Leo", "Virgo", "Libra", "Scorpio",
-        "Sagittarius", "Capricorn", "Aquarius", "Pisces"
+        "Aries",
+        "Taurus",
+        "Gemini",
+        "Cancer",
+        "Leo",
+        "Virgo",
+        "Libra",
+        "Scorpio",
+        "Sagittarius",
+        "Capricorn",
+        "Aquarius",
+        "Pisces"
     ]
 )
 
-def draw_cards(count=1):
+# DRAW FUNCTION
+def draw_cards(count):
     return random.sample(tarot_cards, count)
 
+# CARD RENDERER
 def render_card(card):
+
     reversed_card = random.choice([True, False])
 
-    st.markdown('<div class="tarot-card">', unsafe_allow_html=True)
+    if reversed_card:
+        card_data = card["reversed"]
+        orientation = "Reversed"
+    else:
+        card_data = card["upright"]
+        orientation = "Upright"
+
+    st.markdown(
+        '<div class="tarot-card">',
+        unsafe_allow_html=True
+    )
 
     st.markdown(
         f'<div class="card-title">{card["name"]}</div>',
         unsafe_allow_html=True
     )
 
+    if "arcana" in card:
+        st.caption(card["arcana"])
+
+    if "suit" in card:
+        st.write(f"🃏 Suit: {card['suit']}")
+
+    if "keywords" in card:
+        st.write(
+            "✨ Keywords:",
+            ", ".join(card["keywords"])
+        )
+
     if reversed_card:
-        st.warning("Reversed Card")
+        st.warning(f"{orientation} Card")
     else:
-        st.success("Upright Card")
+        st.success(f"{orientation} Card")
 
-    st.write(f"**Meaning:** {card['meaning']}")
-    st.write(f"**Love:** {card['love']}")
-    st.write(f"**Career:** {card['career']}")
-    st.write(f"**Guidance:** {card['guidance']}")
+    st.write(f"**Meaning:** {card_data['meaning']}")
+    st.write(f"**Love:** {card_data['love']}")
+    st.write(f"**Career:** {card_data['career']}")
+    st.write(f"**Guidance:** {card_data['guidance']}")
 
-    if reversed_card:
-        st.error("⚠ Warning: Avoid impulsive decisions and emotional confusion.")
-    else:
-        st.info("✨ Positive Energy: Growth and transformation are approaching.")
+    st.markdown(
+        '</div>',
+        unsafe_allow_html=True
+    )
 
-    st.markdown('</div>', unsafe_allow_html=True)
-
+# BUTTON
 if st.button("Reveal My Reading ✨"):
 
     if reading_type == "Single Card":
@@ -137,21 +196,30 @@ if st.button("Reveal My Reading ✨"):
             render_card(card)
 
     st.markdown("---")
-    st.subheader("AI Style Interpretation")
+
+    st.subheader("🔮 AI Interpretation")
 
     st.write(f"""
-    Your reading suggests a powerful energetic shift for **{zodiac}**.
+    Your reading for **{zodiac}** suggests an important energetic shift.
 
-    This is a period of reflection, intuition, and transformation.
-    Trust your instincts and avoid rushing important decisions.
+    This period focuses on transformation, emotional clarity,
+    and spiritual growth.
 
-    Opportunities may appear unexpectedly, especially in relationships and career growth.
+    Trust your intuition and avoid rushing important decisions.
+
+    The cards indicate opportunities involving:
+    - Relationships
+    - Personal healing
+    - Career movement
+    - Inner awakening
     """)
 
-    reading_text = f"{reading_type} reading for {zodiac}"
+    # DOWNLOAD
+    reading_export = json.dumps(cards, indent=2)
 
     st.download_button(
         "Download Reading",
-        data=reading_text,
-        file_name="tarot_reading.txt"
+        data=reading_export,
+        file_name="tarot_reading.json",
+        mime="application/json"
     )
