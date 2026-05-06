@@ -1,37 +1,398 @@
 [
   {
     "name": "The Fool",
-    "meaning": "New beginnings and adventure.",
-    "love": "A fresh romantic connection may appear.",
-    "career": "Take bold steps toward new opportunities.",
-    "guidance": "Trust the journey ahead."
+    "number": 0,
+    "arcana": "Major Arcana",
+    "keywords": ["Beginnings", "Adventure", "Freedom"],
+    "upright": {
+      "meaning": "New beginnings and limitless potential.",
+      "love": "A fresh romantic journey may begin.",
+      "career": "Take bold opportunities with confidence.",
+      "guidance": "Trust the unknown path ahead."
+    },
+    "reversed": {
+      "meaning": "Recklessness or fear of change.",
+      "love": "Immaturity or emotional confusion.",
+      "career": "Poor planning may create setbacks.",
+      "guidance": "Think carefully before acting."
+    }
   },
   {
     "name": "The Magician",
-    "meaning": "Manifestation and personal power.",
-    "love": "Strong attraction and communication.",
-    "career": "Your skills will open new doors.",
-    "guidance": "Use your talents wisely."
+    "number": 1,
+    "arcana": "Major Arcana",
+    "keywords": ["Manifestation", "Skill", "Power"],
+    "upright": {
+      "meaning": "You have the tools to succeed.",
+      "love": "Strong attraction and communication.",
+      "career": "Your talents bring opportunities.",
+      "guidance": "Use your abilities wisely."
+    },
+    "reversed": {
+      "meaning": "Manipulation or lack of direction.",
+      "love": "Mixed intentions or dishonesty.",
+      "career": "Skills are being underused.",
+      "guidance": "Focus your energy carefully."
+    }
   },
   {
     "name": "The High Priestess",
-    "meaning": "Intuition and mystery.",
-    "love": "Listen to emotional instincts.",
-    "career": "Observe before making decisions.",
-    "guidance": "Inner wisdom is your strength."
+    "number": 2,
+    "arcana": "Major Arcana",
+    "keywords": ["Intuition", "Mystery", "Wisdom"],
+    "upright": {
+      "meaning": "Trust your intuition and inner wisdom.",
+      "love": "Hidden emotions may surface.",
+      "career": "Observe before making decisions.",
+      "guidance": "Silence reveals truth."
+    },
+    "reversed": {
+      "meaning": "Blocked intuition or secrets.",
+      "love": "Miscommunication creates confusion.",
+      "career": "Missing information affects choices.",
+      "guidance": "Reconnect with your inner voice."
+    }
   },
   {
-    "name": "The Sun",
-    "meaning": "Success and happiness.",
-    "love": "Warmth and positivity in relationships.",
-    "career": "Recognition and achievement are near.",
-    "guidance": "Embrace joy and confidence."
+    "name": "The Empress",
+    "number": 3,
+    "arcana": "Major Arcana",
+    "keywords": ["Abundance", "Nurturing", "Creativity"],
+    "upright": {
+      "meaning": "Growth, creativity, and abundance flourish.",
+      "love": "A nurturing relationship deepens.",
+      "career": "Creative projects succeed.",
+      "guidance": "Embrace compassion and creativity."
+    },
+    "reversed": {
+      "meaning": "Dependence or creative block.",
+      "love": "Emotional imbalance may arise.",
+      "career": "Neglecting self care affects productivity.",
+      "guidance": "Restore balance in your life."
+    }
+  },
+  {
+    "name": "The Emperor",
+    "number": 4,
+    "arcana": "Major Arcana",
+    "keywords": ["Authority", "Structure", "Leadership"],
+    "upright": {
+      "meaning": "Discipline and structure create stability.",
+      "love": "A stable relationship forms.",
+      "career": "Leadership opportunities emerge.",
+      "guidance": "Take control with confidence."
+    },
+    "reversed": {
+      "meaning": "Control issues or rigidity.",
+      "love": "Dominating behavior creates tension.",
+      "career": "Power struggles may appear.",
+      "guidance": "Balance authority with empathy."
+    }
+  },
+  {
+    "name": "The Hierophant",
+    "number": 5,
+    "arcana": "Major Arcana",
+    "keywords": ["Tradition", "Wisdom", "Guidance"],
+    "upright": {
+      "meaning": "Spiritual wisdom and tradition guide you.",
+      "love": "Commitment and shared values strengthen bonds.",
+      "career": "Seek advice from mentors.",
+      "guidance": "Honor proven wisdom."
+    },
+    "reversed": {
+      "meaning": "Rebellion or unconventional thinking.",
+      "love": "Conflicting beliefs create distance.",
+      "career": "Challenge outdated systems carefully.",
+      "guidance": "Find your own truth."
+    }
+  },
+  {
+    "name": "The Lovers",
+    "number": 6,
+    "arcana": "Major Arcana",
+    "keywords": ["Love", "Union", "Choices"],
+    "upright": {
+      "meaning": "Harmony and meaningful choices align.",
+      "love": "Deep emotional connection develops.",
+      "career": "Partnerships bring success.",
+      "guidance": "Choose with your heart and mind aligned."
+    },
+    "reversed": {
+      "meaning": "Conflict or imbalance in relationships.",
+      "love": "Trust issues or emotional disconnect.",
+      "career": "Poor teamwork affects progress.",
+      "guidance": "Communicate honestly."
+    }
+  },
+  {
+    "name": "The Chariot",
+    "number": 7,
+    "arcana": "Major Arcana",
+    "keywords": ["Victory", "Willpower", "Control"],
+    "upright": {
+      "meaning": "Determination leads to success.",
+      "love": "A relationship moves forward quickly.",
+      "career": "Focused effort brings achievement.",
+      "guidance": "Stay disciplined and determined."
+    },
+    "reversed": {
+      "meaning": "Lack of direction or control.",
+      "love": "Emotional tension creates imbalance.",
+      "career": "Delays or distractions slow progress.",
+      "guidance": "Regain focus and control."
+    }
+  },
+  {
+    "name": "Strength",
+    "number": 8,
+    "arcana": "Major Arcana",
+    "keywords": ["Courage", "Patience", "Inner Strength"],
+    "upright": {
+      "meaning": "Inner strength overcomes challenges.",
+      "love": "Patience strengthens emotional bonds.",
+      "career": "Confidence helps you succeed.",
+      "guidance": "Lead with calm courage."
+    },
+    "reversed": {
+      "meaning": "Self doubt or emotional weakness.",
+      "love": "Insecurity affects connection.",
+      "career": "Fear limits your growth.",
+      "guidance": "Believe in your abilities."
+    }
+  },
+  {
+    "name": "The Hermit",
+    "number": 9,
+    "arcana": "Major Arcana",
+    "keywords": ["Reflection", "Wisdom", "Solitude"],
+    "upright": {
+      "meaning": "Inner reflection leads to wisdom.",
+      "love": "Time alone may bring clarity.",
+      "career": "Careful planning is important.",
+      "guidance": "Seek truth within yourself."
+    },
+    "reversed": {
+      "meaning": "Isolation or avoidance.",
+      "love": "Emotional distance creates loneliness.",
+      "career": "Lack of direction causes confusion.",
+      "guidance": "Reconnect with others."
+    }
+  },
+  {
+    "name": "Wheel of Fortune",
+    "number": 10,
+    "arcana": "Major Arcana",
+    "keywords": ["Destiny", "Luck", "Cycles"],
+    "upright": {
+      "meaning": "Positive change and destiny unfold.",
+      "love": "Fate brings meaningful encounters.",
+      "career": "Unexpected opportunities arise.",
+      "guidance": "Embrace changing cycles."
+    },
+    "reversed": {
+      "meaning": "Bad timing or resistance to change.",
+      "love": "Repeated patterns affect relationships.",
+      "career": "Unexpected setbacks occur.",
+      "guidance": "Adapt rather than resist."
+    }
+  },
+  {
+    "name": "Justice",
+    "number": 11,
+    "arcana": "Major Arcana",
+    "keywords": ["Truth", "Balance", "Fairness"],
+    "upright": {
+      "meaning": "Truth and fairness prevail.",
+      "love": "Honesty strengthens relationships.",
+      "career": "Important decisions require balance.",
+      "guidance": "Act with integrity."
+    },
+    "reversed": {
+      "meaning": "Dishonesty or imbalance.",
+      "love": "Unfair treatment causes conflict.",
+      "career": "Avoid unethical actions.",
+      "guidance": "Take accountability."
+    }
+  },
+  {
+    "name": "The Hanged Man",
+    "number": 12,
+    "arcana": "Major Arcana",
+    "keywords": ["Pause", "Perspective", "Sacrifice"],
+    "upright": {
+      "meaning": "A new perspective changes everything.",
+      "love": "Patience improves understanding.",
+      "career": "Delays bring valuable insight.",
+      "guidance": "Surrender control temporarily."
+    },
+    "reversed": {
+      "meaning": "Resistance or stagnation.",
+      "love": "Avoiding compromise causes issues.",
+      "career": "Progress feels blocked.",
+      "guidance": "Release what holds you back."
+    }
   },
   {
     "name": "Death",
-    "meaning": "Transformation and endings.",
-    "love": "A chapter closes for new growth.",
-    "career": "Major change is coming.",
-    "guidance": "Release what no longer serves you."
+    "number": 13,
+    "arcana": "Major Arcana",
+    "keywords": ["Transformation", "Endings", "Rebirth"],
+    "upright": {
+      "meaning": "Transformation and renewal begin.",
+      "love": "An old chapter ends for growth.",
+      "career": "Major changes reshape your path.",
+      "guidance": "Release the past gracefully."
+    },
+    "reversed": {
+      "meaning": "Fear of change or stagnation.",
+      "love": "Holding onto unhealthy patterns.",
+      "career": "Resistance delays progress.",
+      "guidance": "Accept transformation."
+    }
+  },
+  {
+    "name": "Temperance",
+    "number": 14,
+    "arcana": "Major Arcana",
+    "keywords": ["Balance", "Harmony", "Moderation"],
+    "upright": {
+      "meaning": "Balance and harmony restore peace.",
+      "love": "Patience strengthens emotional stability.",
+      "career": "Steady progress leads to success.",
+      "guidance": "Practice moderation."
+    },
+    "reversed": {
+      "meaning": "Imbalance or excess.",
+      "love": "Emotional extremes create tension.",
+      "career": "Poor balance affects productivity.",
+      "guidance": "Slow down and rebalance."
+    }
+  },
+  {
+    "name": "The Devil",
+    "number": 15,
+    "arcana": "Major Arcana",
+    "keywords": ["Temptation", "Attachment", "Shadow"],
+    "upright": {
+      "meaning": "Attachments or unhealthy habits surface.",
+      "love": "Passion may become toxic.",
+      "career": "Feeling trapped or controlled.",
+      "guidance": "Recognize unhealthy patterns."
+    },
+    "reversed": {
+      "meaning": "Freedom from toxic influences.",
+      "love": "Breaking unhealthy emotional cycles.",
+      "career": "Regaining independence and clarity.",
+      "guidance": "Release limiting beliefs."
+    }
+  },
+  {
+    "name": "The Tower",
+    "number": 16,
+    "arcana": "Major Arcana",
+    "keywords": ["Sudden Change", "Chaos", "Awakening"],
+    "upright": {
+      "meaning": "Sudden transformation brings truth.",
+      "love": "Unexpected revelations change relationships.",
+      "career": "A dramatic shift may occur.",
+      "guidance": "Allow old structures to fall."
+    },
+    "reversed": {
+      "meaning": "Avoiding necessary change.",
+      "love": "Fear prevents emotional healing.",
+      "career": "Resistance increases stress.",
+      "guidance": "Face the truth honestly."
+    }
+  },
+  {
+    "name": "The Star",
+    "number": 17,
+    "arcana": "Major Arcana",
+    "keywords": ["Hope", "Healing", "Inspiration"],
+    "upright": {
+      "meaning": "Hope and healing guide the future.",
+      "love": "Emotional healing strengthens connection.",
+      "career": "Creative inspiration flows freely.",
+      "guidance": "Trust in brighter days ahead."
+    },
+    "reversed": {
+      "meaning": "Discouragement or lack of faith.",
+      "love": "Emotional wounds remain unresolved.",
+      "career": "Creative blocks appear.",
+      "guidance": "Reconnect with hope."
+    }
+  },
+  {
+    "name": "The Moon",
+    "number": 18,
+    "arcana": "Major Arcana",
+    "keywords": ["Illusion", "Dreams", "Intuition"],
+    "upright": {
+      "meaning": "Mystery and intuition dominate.",
+      "love": "Emotions may feel uncertain.",
+      "career": "Not everything is clear yet.",
+      "guidance": "Trust your instincts carefully."
+    },
+    "reversed": {
+      "meaning": "Confusion clearing or hidden truths exposed.",
+      "love": "Emotional clarity finally appears.",
+      "career": "Deception becomes visible.",
+      "guidance": "Seek truth over illusion."
+    }
+  },
+  {
+    "name": "The Sun",
+    "number": 19,
+    "arcana": "Major Arcana",
+    "keywords": ["Joy", "Success", "Vitality"],
+    "upright": {
+      "meaning": "Happiness and success shine brightly.",
+      "love": "Warmth and honesty strengthen love.",
+      "career": "Recognition and achievement arrive.",
+      "guidance": "Embrace optimism confidently."
+    },
+    "reversed": {
+      "meaning": "Temporary sadness or delays.",
+      "love": "Misunderstandings create emotional distance.",
+      "career": "Success is delayed but possible.",
+      "guidance": "Stay hopeful during setbacks."
+    }
+  },
+  {
+    "name": "Judgement",
+    "number": 20,
+    "arcana": "Major Arcana",
+    "keywords": ["Awakening", "Reflection", "Renewal"],
+    "upright": {
+      "meaning": "A spiritual awakening transforms you.",
+      "love": "Forgiveness and healing improve relationships.",
+      "career": "A major calling becomes clear.",
+      "guidance": "Answer your higher purpose."
+    },
+    "reversed": {
+      "meaning": "Self doubt or avoidance.",
+      "love": "Past mistakes affect emotional growth.",
+      "career": "Fear prevents progress.",
+      "guidance": "Release guilt and move forward."
+    }
+  },
+  {
+    "name": "The World",
+    "number": 21,
+    "arcana": "Major Arcana",
+    "keywords": ["Completion", "Achievement", "Fulfillment"],
+    "upright": {
+      "meaning": "Completion and fulfillment are achieved.",
+      "love": "A relationship reaches harmony.",
+      "career": "Goals and milestones are completed.",
+      "guidance": "Celebrate your achievements."
+    },
+    "reversed": {
+      "meaning": "Incomplete goals or delays.",
+      "love": "Unfinished emotional cycles remain.",
+      "career": "Progress feels delayed.",
+      "guidance": "Finish what you started."
+    }
   }
 ]
