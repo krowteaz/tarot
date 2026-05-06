@@ -1,0 +1,1786 @@
+{
+  "major_arcana": [
+    {
+      "name": "The Fool",
+      "number": 0,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The Fool represents growth, opportunity, and spiritual insight.",
+        "love": "The Fool suggests emotional development and relationship energy.",
+        "career": "The Fool indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The Fool."
+      },
+      "reversed": {
+        "meaning": "The Fool reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The Fool reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The Fool reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The Fool."
+      }
+    },
+    {
+      "name": "The Magician",
+      "number": 1,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The Magician represents growth, opportunity, and spiritual insight.",
+        "love": "The Magician suggests emotional development and relationship energy.",
+        "career": "The Magician indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The Magician."
+      },
+      "reversed": {
+        "meaning": "The Magician reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The Magician reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The Magician reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The Magician."
+      }
+    },
+    {
+      "name": "The High Priestess",
+      "number": 2,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The High Priestess represents growth, opportunity, and spiritual insight.",
+        "love": "The High Priestess suggests emotional development and relationship energy.",
+        "career": "The High Priestess indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The High Priestess."
+      },
+      "reversed": {
+        "meaning": "The High Priestess reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The High Priestess reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The High Priestess reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The High Priestess."
+      }
+    },
+    {
+      "name": "The Empress",
+      "number": 3,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The Empress represents growth, opportunity, and spiritual insight.",
+        "love": "The Empress suggests emotional development and relationship energy.",
+        "career": "The Empress indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The Empress."
+      },
+      "reversed": {
+        "meaning": "The Empress reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The Empress reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The Empress reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The Empress."
+      }
+    },
+    {
+      "name": "The Emperor",
+      "number": 4,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The Emperor represents growth, opportunity, and spiritual insight.",
+        "love": "The Emperor suggests emotional development and relationship energy.",
+        "career": "The Emperor indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The Emperor."
+      },
+      "reversed": {
+        "meaning": "The Emperor reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The Emperor reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The Emperor reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The Emperor."
+      }
+    },
+    {
+      "name": "The Hierophant",
+      "number": 5,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The Hierophant represents growth, opportunity, and spiritual insight.",
+        "love": "The Hierophant suggests emotional development and relationship energy.",
+        "career": "The Hierophant indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The Hierophant."
+      },
+      "reversed": {
+        "meaning": "The Hierophant reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The Hierophant reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The Hierophant reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The Hierophant."
+      }
+    },
+    {
+      "name": "The Lovers",
+      "number": 6,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The Lovers represents growth, opportunity, and spiritual insight.",
+        "love": "The Lovers suggests emotional development and relationship energy.",
+        "career": "The Lovers indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The Lovers."
+      },
+      "reversed": {
+        "meaning": "The Lovers reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The Lovers reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The Lovers reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The Lovers."
+      }
+    },
+    {
+      "name": "The Chariot",
+      "number": 7,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The Chariot represents growth, opportunity, and spiritual insight.",
+        "love": "The Chariot suggests emotional development and relationship energy.",
+        "career": "The Chariot indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The Chariot."
+      },
+      "reversed": {
+        "meaning": "The Chariot reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The Chariot reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The Chariot reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The Chariot."
+      }
+    },
+    {
+      "name": "Strength",
+      "number": 8,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "Strength represents growth, opportunity, and spiritual insight.",
+        "love": "Strength suggests emotional development and relationship energy.",
+        "career": "Strength indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of Strength."
+      },
+      "reversed": {
+        "meaning": "Strength reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "Strength reversed suggests emotional misunderstandings or hesitation.",
+        "career": "Strength reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of Strength."
+      }
+    },
+    {
+      "name": "The Hermit",
+      "number": 9,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The Hermit represents growth, opportunity, and spiritual insight.",
+        "love": "The Hermit suggests emotional development and relationship energy.",
+        "career": "The Hermit indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The Hermit."
+      },
+      "reversed": {
+        "meaning": "The Hermit reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The Hermit reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The Hermit reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The Hermit."
+      }
+    },
+    {
+      "name": "Wheel of Fortune",
+      "number": 10,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "Wheel of Fortune represents growth, opportunity, and spiritual insight.",
+        "love": "Wheel of Fortune suggests emotional development and relationship energy.",
+        "career": "Wheel of Fortune indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of Wheel of Fortune."
+      },
+      "reversed": {
+        "meaning": "Wheel of Fortune reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "Wheel of Fortune reversed suggests emotional misunderstandings or hesitation.",
+        "career": "Wheel of Fortune reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of Wheel of Fortune."
+      }
+    },
+    {
+      "name": "Justice",
+      "number": 11,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "Justice represents growth, opportunity, and spiritual insight.",
+        "love": "Justice suggests emotional development and relationship energy.",
+        "career": "Justice indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of Justice."
+      },
+      "reversed": {
+        "meaning": "Justice reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "Justice reversed suggests emotional misunderstandings or hesitation.",
+        "career": "Justice reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of Justice."
+      }
+    },
+    {
+      "name": "The Hanged Man",
+      "number": 12,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The Hanged Man represents growth, opportunity, and spiritual insight.",
+        "love": "The Hanged Man suggests emotional development and relationship energy.",
+        "career": "The Hanged Man indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The Hanged Man."
+      },
+      "reversed": {
+        "meaning": "The Hanged Man reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The Hanged Man reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The Hanged Man reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The Hanged Man."
+      }
+    },
+    {
+      "name": "Death",
+      "number": 13,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "Death represents growth, opportunity, and spiritual insight.",
+        "love": "Death suggests emotional development and relationship energy.",
+        "career": "Death indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of Death."
+      },
+      "reversed": {
+        "meaning": "Death reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "Death reversed suggests emotional misunderstandings or hesitation.",
+        "career": "Death reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of Death."
+      }
+    },
+    {
+      "name": "Temperance",
+      "number": 14,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "Temperance represents growth, opportunity, and spiritual insight.",
+        "love": "Temperance suggests emotional development and relationship energy.",
+        "career": "Temperance indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of Temperance."
+      },
+      "reversed": {
+        "meaning": "Temperance reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "Temperance reversed suggests emotional misunderstandings or hesitation.",
+        "career": "Temperance reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of Temperance."
+      }
+    },
+    {
+      "name": "The Devil",
+      "number": 15,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The Devil represents growth, opportunity, and spiritual insight.",
+        "love": "The Devil suggests emotional development and relationship energy.",
+        "career": "The Devil indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The Devil."
+      },
+      "reversed": {
+        "meaning": "The Devil reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The Devil reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The Devil reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The Devil."
+      }
+    },
+    {
+      "name": "The Tower",
+      "number": 16,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The Tower represents growth, opportunity, and spiritual insight.",
+        "love": "The Tower suggests emotional development and relationship energy.",
+        "career": "The Tower indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The Tower."
+      },
+      "reversed": {
+        "meaning": "The Tower reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The Tower reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The Tower reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The Tower."
+      }
+    },
+    {
+      "name": "The Star",
+      "number": 17,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The Star represents growth, opportunity, and spiritual insight.",
+        "love": "The Star suggests emotional development and relationship energy.",
+        "career": "The Star indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The Star."
+      },
+      "reversed": {
+        "meaning": "The Star reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The Star reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The Star reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The Star."
+      }
+    },
+    {
+      "name": "The Moon",
+      "number": 18,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The Moon represents growth, opportunity, and spiritual insight.",
+        "love": "The Moon suggests emotional development and relationship energy.",
+        "career": "The Moon indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The Moon."
+      },
+      "reversed": {
+        "meaning": "The Moon reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The Moon reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The Moon reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The Moon."
+      }
+    },
+    {
+      "name": "The Sun",
+      "number": 19,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The Sun represents growth, opportunity, and spiritual insight.",
+        "love": "The Sun suggests emotional development and relationship energy.",
+        "career": "The Sun indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The Sun."
+      },
+      "reversed": {
+        "meaning": "The Sun reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The Sun reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The Sun reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The Sun."
+      }
+    },
+    {
+      "name": "Judgement",
+      "number": 20,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "Judgement represents growth, opportunity, and spiritual insight.",
+        "love": "Judgement suggests emotional development and relationship energy.",
+        "career": "Judgement indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of Judgement."
+      },
+      "reversed": {
+        "meaning": "Judgement reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "Judgement reversed suggests emotional misunderstandings or hesitation.",
+        "career": "Judgement reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of Judgement."
+      }
+    },
+    {
+      "name": "The World",
+      "number": 21,
+      "arcana": "Major Arcana",
+      "keywords": [
+        "Transformation",
+        "Growth",
+        "Insight"
+      ],
+      "upright": {
+        "meaning": "The World represents growth, opportunity, and spiritual insight.",
+        "love": "The World suggests emotional development and relationship energy.",
+        "career": "The World indicates progress and important career movement.",
+        "guidance": "Trust the lessons and energy of The World."
+      },
+      "reversed": {
+        "meaning": "The World reversed may indicate imbalance, delay, or inner conflict.",
+        "love": "The World reversed suggests emotional misunderstandings or hesitation.",
+        "career": "The World reversed warns against confusion or poor timing.",
+        "guidance": "Slow down and reflect carefully on the energy of The World."
+      }
+    }
+  ],
+  "minor_arcana": {
+    "cups": [
+      {
+        "name": "Ace of Cups",
+        "number": 1,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Ace of Cups represents growth, opportunity, and spiritual insight.",
+          "love": "Ace of Cups suggests emotional development and relationship energy.",
+          "career": "Ace of Cups indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Ace of Cups."
+        },
+        "reversed": {
+          "meaning": "Ace of Cups reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Ace of Cups reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Ace of Cups reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Ace of Cups."
+        },
+        "suit": "Cups"
+      },
+      {
+        "name": "Two of Cups",
+        "number": 2,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Two of Cups represents growth, opportunity, and spiritual insight.",
+          "love": "Two of Cups suggests emotional development and relationship energy.",
+          "career": "Two of Cups indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Two of Cups."
+        },
+        "reversed": {
+          "meaning": "Two of Cups reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Two of Cups reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Two of Cups reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Two of Cups."
+        },
+        "suit": "Cups"
+      },
+      {
+        "name": "Three of Cups",
+        "number": 3,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Three of Cups represents growth, opportunity, and spiritual insight.",
+          "love": "Three of Cups suggests emotional development and relationship energy.",
+          "career": "Three of Cups indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Three of Cups."
+        },
+        "reversed": {
+          "meaning": "Three of Cups reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Three of Cups reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Three of Cups reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Three of Cups."
+        },
+        "suit": "Cups"
+      },
+      {
+        "name": "Four of Cups",
+        "number": 4,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Four of Cups represents growth, opportunity, and spiritual insight.",
+          "love": "Four of Cups suggests emotional development and relationship energy.",
+          "career": "Four of Cups indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Four of Cups."
+        },
+        "reversed": {
+          "meaning": "Four of Cups reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Four of Cups reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Four of Cups reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Four of Cups."
+        },
+        "suit": "Cups"
+      },
+      {
+        "name": "Five of Cups",
+        "number": 5,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Five of Cups represents growth, opportunity, and spiritual insight.",
+          "love": "Five of Cups suggests emotional development and relationship energy.",
+          "career": "Five of Cups indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Five of Cups."
+        },
+        "reversed": {
+          "meaning": "Five of Cups reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Five of Cups reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Five of Cups reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Five of Cups."
+        },
+        "suit": "Cups"
+      },
+      {
+        "name": "Six of Cups",
+        "number": 6,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Six of Cups represents growth, opportunity, and spiritual insight.",
+          "love": "Six of Cups suggests emotional development and relationship energy.",
+          "career": "Six of Cups indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Six of Cups."
+        },
+        "reversed": {
+          "meaning": "Six of Cups reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Six of Cups reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Six of Cups reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Six of Cups."
+        },
+        "suit": "Cups"
+      },
+      {
+        "name": "Seven of Cups",
+        "number": 7,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Seven of Cups represents growth, opportunity, and spiritual insight.",
+          "love": "Seven of Cups suggests emotional development and relationship energy.",
+          "career": "Seven of Cups indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Seven of Cups."
+        },
+        "reversed": {
+          "meaning": "Seven of Cups reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Seven of Cups reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Seven of Cups reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Seven of Cups."
+        },
+        "suit": "Cups"
+      },
+      {
+        "name": "Eight of Cups",
+        "number": 8,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Eight of Cups represents growth, opportunity, and spiritual insight.",
+          "love": "Eight of Cups suggests emotional development and relationship energy.",
+          "career": "Eight of Cups indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Eight of Cups."
+        },
+        "reversed": {
+          "meaning": "Eight of Cups reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Eight of Cups reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Eight of Cups reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Eight of Cups."
+        },
+        "suit": "Cups"
+      },
+      {
+        "name": "Nine of Cups",
+        "number": 9,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Nine of Cups represents growth, opportunity, and spiritual insight.",
+          "love": "Nine of Cups suggests emotional development and relationship energy.",
+          "career": "Nine of Cups indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Nine of Cups."
+        },
+        "reversed": {
+          "meaning": "Nine of Cups reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Nine of Cups reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Nine of Cups reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Nine of Cups."
+        },
+        "suit": "Cups"
+      },
+      {
+        "name": "Ten of Cups",
+        "number": 10,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Ten of Cups represents growth, opportunity, and spiritual insight.",
+          "love": "Ten of Cups suggests emotional development and relationship energy.",
+          "career": "Ten of Cups indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Ten of Cups."
+        },
+        "reversed": {
+          "meaning": "Ten of Cups reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Ten of Cups reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Ten of Cups reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Ten of Cups."
+        },
+        "suit": "Cups"
+      },
+      {
+        "name": "Page of Cups",
+        "number": 11,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Page of Cups represents growth, opportunity, and spiritual insight.",
+          "love": "Page of Cups suggests emotional development and relationship energy.",
+          "career": "Page of Cups indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Page of Cups."
+        },
+        "reversed": {
+          "meaning": "Page of Cups reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Page of Cups reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Page of Cups reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Page of Cups."
+        },
+        "suit": "Cups"
+      },
+      {
+        "name": "Knight of Cups",
+        "number": 12,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Knight of Cups represents growth, opportunity, and spiritual insight.",
+          "love": "Knight of Cups suggests emotional development and relationship energy.",
+          "career": "Knight of Cups indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Knight of Cups."
+        },
+        "reversed": {
+          "meaning": "Knight of Cups reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Knight of Cups reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Knight of Cups reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Knight of Cups."
+        },
+        "suit": "Cups"
+      },
+      {
+        "name": "Queen of Cups",
+        "number": 13,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Queen of Cups represents growth, opportunity, and spiritual insight.",
+          "love": "Queen of Cups suggests emotional development and relationship energy.",
+          "career": "Queen of Cups indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Queen of Cups."
+        },
+        "reversed": {
+          "meaning": "Queen of Cups reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Queen of Cups reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Queen of Cups reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Queen of Cups."
+        },
+        "suit": "Cups"
+      },
+      {
+        "name": "King of Cups",
+        "number": 14,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "King of Cups represents growth, opportunity, and spiritual insight.",
+          "love": "King of Cups suggests emotional development and relationship energy.",
+          "career": "King of Cups indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of King of Cups."
+        },
+        "reversed": {
+          "meaning": "King of Cups reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "King of Cups reversed suggests emotional misunderstandings or hesitation.",
+          "career": "King of Cups reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of King of Cups."
+        },
+        "suit": "Cups"
+      }
+    ],
+    "wands": [
+      {
+        "name": "Ace of Wands",
+        "number": 1,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Ace of Wands represents growth, opportunity, and spiritual insight.",
+          "love": "Ace of Wands suggests emotional development and relationship energy.",
+          "career": "Ace of Wands indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Ace of Wands."
+        },
+        "reversed": {
+          "meaning": "Ace of Wands reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Ace of Wands reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Ace of Wands reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Ace of Wands."
+        },
+        "suit": "Wands"
+      },
+      {
+        "name": "Two of Wands",
+        "number": 2,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Two of Wands represents growth, opportunity, and spiritual insight.",
+          "love": "Two of Wands suggests emotional development and relationship energy.",
+          "career": "Two of Wands indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Two of Wands."
+        },
+        "reversed": {
+          "meaning": "Two of Wands reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Two of Wands reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Two of Wands reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Two of Wands."
+        },
+        "suit": "Wands"
+      },
+      {
+        "name": "Three of Wands",
+        "number": 3,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Three of Wands represents growth, opportunity, and spiritual insight.",
+          "love": "Three of Wands suggests emotional development and relationship energy.",
+          "career": "Three of Wands indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Three of Wands."
+        },
+        "reversed": {
+          "meaning": "Three of Wands reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Three of Wands reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Three of Wands reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Three of Wands."
+        },
+        "suit": "Wands"
+      },
+      {
+        "name": "Four of Wands",
+        "number": 4,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Four of Wands represents growth, opportunity, and spiritual insight.",
+          "love": "Four of Wands suggests emotional development and relationship energy.",
+          "career": "Four of Wands indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Four of Wands."
+        },
+        "reversed": {
+          "meaning": "Four of Wands reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Four of Wands reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Four of Wands reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Four of Wands."
+        },
+        "suit": "Wands"
+      },
+      {
+        "name": "Five of Wands",
+        "number": 5,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Five of Wands represents growth, opportunity, and spiritual insight.",
+          "love": "Five of Wands suggests emotional development and relationship energy.",
+          "career": "Five of Wands indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Five of Wands."
+        },
+        "reversed": {
+          "meaning": "Five of Wands reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Five of Wands reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Five of Wands reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Five of Wands."
+        },
+        "suit": "Wands"
+      },
+      {
+        "name": "Six of Wands",
+        "number": 6,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Six of Wands represents growth, opportunity, and spiritual insight.",
+          "love": "Six of Wands suggests emotional development and relationship energy.",
+          "career": "Six of Wands indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Six of Wands."
+        },
+        "reversed": {
+          "meaning": "Six of Wands reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Six of Wands reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Six of Wands reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Six of Wands."
+        },
+        "suit": "Wands"
+      },
+      {
+        "name": "Seven of Wands",
+        "number": 7,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Seven of Wands represents growth, opportunity, and spiritual insight.",
+          "love": "Seven of Wands suggests emotional development and relationship energy.",
+          "career": "Seven of Wands indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Seven of Wands."
+        },
+        "reversed": {
+          "meaning": "Seven of Wands reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Seven of Wands reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Seven of Wands reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Seven of Wands."
+        },
+        "suit": "Wands"
+      },
+      {
+        "name": "Eight of Wands",
+        "number": 8,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Eight of Wands represents growth, opportunity, and spiritual insight.",
+          "love": "Eight of Wands suggests emotional development and relationship energy.",
+          "career": "Eight of Wands indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Eight of Wands."
+        },
+        "reversed": {
+          "meaning": "Eight of Wands reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Eight of Wands reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Eight of Wands reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Eight of Wands."
+        },
+        "suit": "Wands"
+      },
+      {
+        "name": "Nine of Wands",
+        "number": 9,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Nine of Wands represents growth, opportunity, and spiritual insight.",
+          "love": "Nine of Wands suggests emotional development and relationship energy.",
+          "career": "Nine of Wands indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Nine of Wands."
+        },
+        "reversed": {
+          "meaning": "Nine of Wands reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Nine of Wands reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Nine of Wands reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Nine of Wands."
+        },
+        "suit": "Wands"
+      },
+      {
+        "name": "Ten of Wands",
+        "number": 10,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Ten of Wands represents growth, opportunity, and spiritual insight.",
+          "love": "Ten of Wands suggests emotional development and relationship energy.",
+          "career": "Ten of Wands indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Ten of Wands."
+        },
+        "reversed": {
+          "meaning": "Ten of Wands reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Ten of Wands reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Ten of Wands reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Ten of Wands."
+        },
+        "suit": "Wands"
+      },
+      {
+        "name": "Page of Wands",
+        "number": 11,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Page of Wands represents growth, opportunity, and spiritual insight.",
+          "love": "Page of Wands suggests emotional development and relationship energy.",
+          "career": "Page of Wands indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Page of Wands."
+        },
+        "reversed": {
+          "meaning": "Page of Wands reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Page of Wands reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Page of Wands reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Page of Wands."
+        },
+        "suit": "Wands"
+      },
+      {
+        "name": "Knight of Wands",
+        "number": 12,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Knight of Wands represents growth, opportunity, and spiritual insight.",
+          "love": "Knight of Wands suggests emotional development and relationship energy.",
+          "career": "Knight of Wands indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Knight of Wands."
+        },
+        "reversed": {
+          "meaning": "Knight of Wands reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Knight of Wands reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Knight of Wands reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Knight of Wands."
+        },
+        "suit": "Wands"
+      },
+      {
+        "name": "Queen of Wands",
+        "number": 13,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Queen of Wands represents growth, opportunity, and spiritual insight.",
+          "love": "Queen of Wands suggests emotional development and relationship energy.",
+          "career": "Queen of Wands indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Queen of Wands."
+        },
+        "reversed": {
+          "meaning": "Queen of Wands reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Queen of Wands reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Queen of Wands reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Queen of Wands."
+        },
+        "suit": "Wands"
+      },
+      {
+        "name": "King of Wands",
+        "number": 14,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "King of Wands represents growth, opportunity, and spiritual insight.",
+          "love": "King of Wands suggests emotional development and relationship energy.",
+          "career": "King of Wands indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of King of Wands."
+        },
+        "reversed": {
+          "meaning": "King of Wands reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "King of Wands reversed suggests emotional misunderstandings or hesitation.",
+          "career": "King of Wands reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of King of Wands."
+        },
+        "suit": "Wands"
+      }
+    ],
+    "swords": [
+      {
+        "name": "Ace of Swords",
+        "number": 1,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Ace of Swords represents growth, opportunity, and spiritual insight.",
+          "love": "Ace of Swords suggests emotional development and relationship energy.",
+          "career": "Ace of Swords indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Ace of Swords."
+        },
+        "reversed": {
+          "meaning": "Ace of Swords reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Ace of Swords reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Ace of Swords reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Ace of Swords."
+        },
+        "suit": "Swords"
+      },
+      {
+        "name": "Two of Swords",
+        "number": 2,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Two of Swords represents growth, opportunity, and spiritual insight.",
+          "love": "Two of Swords suggests emotional development and relationship energy.",
+          "career": "Two of Swords indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Two of Swords."
+        },
+        "reversed": {
+          "meaning": "Two of Swords reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Two of Swords reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Two of Swords reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Two of Swords."
+        },
+        "suit": "Swords"
+      },
+      {
+        "name": "Three of Swords",
+        "number": 3,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Three of Swords represents growth, opportunity, and spiritual insight.",
+          "love": "Three of Swords suggests emotional development and relationship energy.",
+          "career": "Three of Swords indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Three of Swords."
+        },
+        "reversed": {
+          "meaning": "Three of Swords reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Three of Swords reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Three of Swords reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Three of Swords."
+        },
+        "suit": "Swords"
+      },
+      {
+        "name": "Four of Swords",
+        "number": 4,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Four of Swords represents growth, opportunity, and spiritual insight.",
+          "love": "Four of Swords suggests emotional development and relationship energy.",
+          "career": "Four of Swords indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Four of Swords."
+        },
+        "reversed": {
+          "meaning": "Four of Swords reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Four of Swords reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Four of Swords reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Four of Swords."
+        },
+        "suit": "Swords"
+      },
+      {
+        "name": "Five of Swords",
+        "number": 5,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Five of Swords represents growth, opportunity, and spiritual insight.",
+          "love": "Five of Swords suggests emotional development and relationship energy.",
+          "career": "Five of Swords indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Five of Swords."
+        },
+        "reversed": {
+          "meaning": "Five of Swords reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Five of Swords reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Five of Swords reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Five of Swords."
+        },
+        "suit": "Swords"
+      },
+      {
+        "name": "Six of Swords",
+        "number": 6,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Six of Swords represents growth, opportunity, and spiritual insight.",
+          "love": "Six of Swords suggests emotional development and relationship energy.",
+          "career": "Six of Swords indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Six of Swords."
+        },
+        "reversed": {
+          "meaning": "Six of Swords reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Six of Swords reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Six of Swords reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Six of Swords."
+        },
+        "suit": "Swords"
+      },
+      {
+        "name": "Seven of Swords",
+        "number": 7,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Seven of Swords represents growth, opportunity, and spiritual insight.",
+          "love": "Seven of Swords suggests emotional development and relationship energy.",
+          "career": "Seven of Swords indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Seven of Swords."
+        },
+        "reversed": {
+          "meaning": "Seven of Swords reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Seven of Swords reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Seven of Swords reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Seven of Swords."
+        },
+        "suit": "Swords"
+      },
+      {
+        "name": "Eight of Swords",
+        "number": 8,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Eight of Swords represents growth, opportunity, and spiritual insight.",
+          "love": "Eight of Swords suggests emotional development and relationship energy.",
+          "career": "Eight of Swords indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Eight of Swords."
+        },
+        "reversed": {
+          "meaning": "Eight of Swords reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Eight of Swords reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Eight of Swords reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Eight of Swords."
+        },
+        "suit": "Swords"
+      },
+      {
+        "name": "Nine of Swords",
+        "number": 9,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Nine of Swords represents growth, opportunity, and spiritual insight.",
+          "love": "Nine of Swords suggests emotional development and relationship energy.",
+          "career": "Nine of Swords indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Nine of Swords."
+        },
+        "reversed": {
+          "meaning": "Nine of Swords reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Nine of Swords reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Nine of Swords reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Nine of Swords."
+        },
+        "suit": "Swords"
+      },
+      {
+        "name": "Ten of Swords",
+        "number": 10,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Ten of Swords represents growth, opportunity, and spiritual insight.",
+          "love": "Ten of Swords suggests emotional development and relationship energy.",
+          "career": "Ten of Swords indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Ten of Swords."
+        },
+        "reversed": {
+          "meaning": "Ten of Swords reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Ten of Swords reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Ten of Swords reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Ten of Swords."
+        },
+        "suit": "Swords"
+      },
+      {
+        "name": "Page of Swords",
+        "number": 11,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Page of Swords represents growth, opportunity, and spiritual insight.",
+          "love": "Page of Swords suggests emotional development and relationship energy.",
+          "career": "Page of Swords indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Page of Swords."
+        },
+        "reversed": {
+          "meaning": "Page of Swords reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Page of Swords reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Page of Swords reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Page of Swords."
+        },
+        "suit": "Swords"
+      },
+      {
+        "name": "Knight of Swords",
+        "number": 12,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Knight of Swords represents growth, opportunity, and spiritual insight.",
+          "love": "Knight of Swords suggests emotional development and relationship energy.",
+          "career": "Knight of Swords indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Knight of Swords."
+        },
+        "reversed": {
+          "meaning": "Knight of Swords reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Knight of Swords reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Knight of Swords reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Knight of Swords."
+        },
+        "suit": "Swords"
+      },
+      {
+        "name": "Queen of Swords",
+        "number": 13,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Queen of Swords represents growth, opportunity, and spiritual insight.",
+          "love": "Queen of Swords suggests emotional development and relationship energy.",
+          "career": "Queen of Swords indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Queen of Swords."
+        },
+        "reversed": {
+          "meaning": "Queen of Swords reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Queen of Swords reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Queen of Swords reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Queen of Swords."
+        },
+        "suit": "Swords"
+      },
+      {
+        "name": "King of Swords",
+        "number": 14,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "King of Swords represents growth, opportunity, and spiritual insight.",
+          "love": "King of Swords suggests emotional development and relationship energy.",
+          "career": "King of Swords indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of King of Swords."
+        },
+        "reversed": {
+          "meaning": "King of Swords reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "King of Swords reversed suggests emotional misunderstandings or hesitation.",
+          "career": "King of Swords reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of King of Swords."
+        },
+        "suit": "Swords"
+      }
+    ],
+    "pentacles": [
+      {
+        "name": "Ace of Pentacles",
+        "number": 1,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Ace of Pentacles represents growth, opportunity, and spiritual insight.",
+          "love": "Ace of Pentacles suggests emotional development and relationship energy.",
+          "career": "Ace of Pentacles indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Ace of Pentacles."
+        },
+        "reversed": {
+          "meaning": "Ace of Pentacles reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Ace of Pentacles reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Ace of Pentacles reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Ace of Pentacles."
+        },
+        "suit": "Pentacles"
+      },
+      {
+        "name": "Two of Pentacles",
+        "number": 2,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Two of Pentacles represents growth, opportunity, and spiritual insight.",
+          "love": "Two of Pentacles suggests emotional development and relationship energy.",
+          "career": "Two of Pentacles indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Two of Pentacles."
+        },
+        "reversed": {
+          "meaning": "Two of Pentacles reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Two of Pentacles reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Two of Pentacles reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Two of Pentacles."
+        },
+        "suit": "Pentacles"
+      },
+      {
+        "name": "Three of Pentacles",
+        "number": 3,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Three of Pentacles represents growth, opportunity, and spiritual insight.",
+          "love": "Three of Pentacles suggests emotional development and relationship energy.",
+          "career": "Three of Pentacles indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Three of Pentacles."
+        },
+        "reversed": {
+          "meaning": "Three of Pentacles reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Three of Pentacles reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Three of Pentacles reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Three of Pentacles."
+        },
+        "suit": "Pentacles"
+      },
+      {
+        "name": "Four of Pentacles",
+        "number": 4,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Four of Pentacles represents growth, opportunity, and spiritual insight.",
+          "love": "Four of Pentacles suggests emotional development and relationship energy.",
+          "career": "Four of Pentacles indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Four of Pentacles."
+        },
+        "reversed": {
+          "meaning": "Four of Pentacles reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Four of Pentacles reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Four of Pentacles reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Four of Pentacles."
+        },
+        "suit": "Pentacles"
+      },
+      {
+        "name": "Five of Pentacles",
+        "number": 5,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Five of Pentacles represents growth, opportunity, and spiritual insight.",
+          "love": "Five of Pentacles suggests emotional development and relationship energy.",
+          "career": "Five of Pentacles indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Five of Pentacles."
+        },
+        "reversed": {
+          "meaning": "Five of Pentacles reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Five of Pentacles reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Five of Pentacles reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Five of Pentacles."
+        },
+        "suit": "Pentacles"
+      },
+      {
+        "name": "Six of Pentacles",
+        "number": 6,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Six of Pentacles represents growth, opportunity, and spiritual insight.",
+          "love": "Six of Pentacles suggests emotional development and relationship energy.",
+          "career": "Six of Pentacles indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Six of Pentacles."
+        },
+        "reversed": {
+          "meaning": "Six of Pentacles reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Six of Pentacles reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Six of Pentacles reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Six of Pentacles."
+        },
+        "suit": "Pentacles"
+      },
+      {
+        "name": "Seven of Pentacles",
+        "number": 7,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Seven of Pentacles represents growth, opportunity, and spiritual insight.",
+          "love": "Seven of Pentacles suggests emotional development and relationship energy.",
+          "career": "Seven of Pentacles indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Seven of Pentacles."
+        },
+        "reversed": {
+          "meaning": "Seven of Pentacles reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Seven of Pentacles reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Seven of Pentacles reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Seven of Pentacles."
+        },
+        "suit": "Pentacles"
+      },
+      {
+        "name": "Eight of Pentacles",
+        "number": 8,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Eight of Pentacles represents growth, opportunity, and spiritual insight.",
+          "love": "Eight of Pentacles suggests emotional development and relationship energy.",
+          "career": "Eight of Pentacles indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Eight of Pentacles."
+        },
+        "reversed": {
+          "meaning": "Eight of Pentacles reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Eight of Pentacles reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Eight of Pentacles reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Eight of Pentacles."
+        },
+        "suit": "Pentacles"
+      },
+      {
+        "name": "Nine of Pentacles",
+        "number": 9,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Nine of Pentacles represents growth, opportunity, and spiritual insight.",
+          "love": "Nine of Pentacles suggests emotional development and relationship energy.",
+          "career": "Nine of Pentacles indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Nine of Pentacles."
+        },
+        "reversed": {
+          "meaning": "Nine of Pentacles reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Nine of Pentacles reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Nine of Pentacles reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Nine of Pentacles."
+        },
+        "suit": "Pentacles"
+      },
+      {
+        "name": "Ten of Pentacles",
+        "number": 10,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Ten of Pentacles represents growth, opportunity, and spiritual insight.",
+          "love": "Ten of Pentacles suggests emotional development and relationship energy.",
+          "career": "Ten of Pentacles indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Ten of Pentacles."
+        },
+        "reversed": {
+          "meaning": "Ten of Pentacles reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Ten of Pentacles reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Ten of Pentacles reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Ten of Pentacles."
+        },
+        "suit": "Pentacles"
+      },
+      {
+        "name": "Page of Pentacles",
+        "number": 11,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Page of Pentacles represents growth, opportunity, and spiritual insight.",
+          "love": "Page of Pentacles suggests emotional development and relationship energy.",
+          "career": "Page of Pentacles indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Page of Pentacles."
+        },
+        "reversed": {
+          "meaning": "Page of Pentacles reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Page of Pentacles reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Page of Pentacles reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Page of Pentacles."
+        },
+        "suit": "Pentacles"
+      },
+      {
+        "name": "Knight of Pentacles",
+        "number": 12,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Knight of Pentacles represents growth, opportunity, and spiritual insight.",
+          "love": "Knight of Pentacles suggests emotional development and relationship energy.",
+          "career": "Knight of Pentacles indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Knight of Pentacles."
+        },
+        "reversed": {
+          "meaning": "Knight of Pentacles reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Knight of Pentacles reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Knight of Pentacles reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Knight of Pentacles."
+        },
+        "suit": "Pentacles"
+      },
+      {
+        "name": "Queen of Pentacles",
+        "number": 13,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "Queen of Pentacles represents growth, opportunity, and spiritual insight.",
+          "love": "Queen of Pentacles suggests emotional development and relationship energy.",
+          "career": "Queen of Pentacles indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of Queen of Pentacles."
+        },
+        "reversed": {
+          "meaning": "Queen of Pentacles reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "Queen of Pentacles reversed suggests emotional misunderstandings or hesitation.",
+          "career": "Queen of Pentacles reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of Queen of Pentacles."
+        },
+        "suit": "Pentacles"
+      },
+      {
+        "name": "King of Pentacles",
+        "number": 14,
+        "arcana": "Minor Arcana",
+        "keywords": [
+          "Transformation",
+          "Growth",
+          "Insight"
+        ],
+        "upright": {
+          "meaning": "King of Pentacles represents growth, opportunity, and spiritual insight.",
+          "love": "King of Pentacles suggests emotional development and relationship energy.",
+          "career": "King of Pentacles indicates progress and important career movement.",
+          "guidance": "Trust the lessons and energy of King of Pentacles."
+        },
+        "reversed": {
+          "meaning": "King of Pentacles reversed may indicate imbalance, delay, or inner conflict.",
+          "love": "King of Pentacles reversed suggests emotional misunderstandings or hesitation.",
+          "career": "King of Pentacles reversed warns against confusion or poor timing.",
+          "guidance": "Slow down and reflect carefully on the energy of King of Pentacles."
+        },
+        "suit": "Pentacles"
+      }
+    ]
+  }
+}

@@ -1,15 +1,17 @@
-# Mystic Tarot Streamlit App
 
-## Run Locally
+# Full Tarot Deck Dataset
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+Contains:
+- 22 Major Arcana cards
+- 56 Minor Arcana cards
+- Upright meanings
+- Reversed meanings
+- Love readings
+- Career readings
+- Guidance
+- Keywords
 
-## Features
-- Dark mystical UI
-- Tarot readings
-- AI style interpretation
-- Download reading
-- Zodiac integration
+Compatible with:
+- Streamlit Tarot Apps
+- AI Tarot Readers
+- Mobile Tarot Apps
